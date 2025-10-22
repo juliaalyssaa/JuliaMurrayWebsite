@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "Julia Murray's Website"
+  title: "Julia Murray"
   navbar:
     left:
       - href: index.qmd
@@ -20,7 +20,7 @@ website:
 
 format:
   html:
-    theme: cerulean
+    theme: lux
     toc: true
 
 editor: source
